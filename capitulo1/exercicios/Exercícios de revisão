@@ -1,0 +1,23 @@
+1.1 ->
+a: Programa/Software. Conjuntos e instruções que computadores seguem para executarem determinadas tarefas
+b: Memória de armazenamento, memória principal, dispositivos de entrada e saída, unidade de processamento logico e aritmético e unidade central de processamento. Principais unidades lógicas do computador.
+c: Linguagem de máquina, linguagem assembly e linguagem de alto nível. Principais tipos de linguagem de programação.
+d: Compiladores. Convertem linguagem assembly e de alto nível para linguagem de máquina.
+e: Android. Sistema baseado em Linux.
+f: Candidato a lançamento. Software em fase pre lançamento, contendo quase nenhum ou nenhum bug.
+g: Acelerômetro. Dispositivo capaz de identificar os movimentos de cima/baixo, esquerda/direita e baixo/cima, usado em dispositivos de entrada.
+
+1.2 ->
+a: java. Comando para executar bytecodes java na extensão .class.
+b: javac. Comando para compilar o código fonte em bytecode.
+c: .java. Extensão das classes (código fonte) java.
+d: .class. Extensão dos arquivos bytecodes java (Resultado da compilação do código fonte). 
+e: bytecode. Código intermediário executado pela JVM.
+
+1.3 ->
+a: Ocultamento de informação. Prática permitida por objetos java.
+b: Classes. Unidade de programa usada como molde de representação de algum objeto.
+c: Análise e projeto orientado a objetos. Processo baseado em orientação a objetos.
+d: Herança. Termo usado para representar a capacidade de classes herdarem atributos e metódos de outras classes.
+e: UML. Representação visual usada para representar sistemas baseado em objetos e classes.
+f: Atributos. Campos que representam características de um objeto.

@@ -1,0 +1,40 @@
+1.4 ->
+a: Unidade de entrada. Unidade lógica que recebe informações.
+b: Processamento/Códificação. Processo de instrução do computador para resolver problemas específicos.
+c: Linguagem assembly. Linguagem que usa abreviações em ingles para criar instruções em linguagem de máquina.
+d: Unidade de Saída. Unidade lógica que apresenta ou envia as informações já processadas.
+e: Mémoria principal e Mémoria de armazenamento. Unidades lógica que retem informação.
+f: Unidade lógica e aritmética. Unidade lógica que realiza cálculos.
+g: Unidade lógica e aritmética. Unidade lógica que toma decisões lógicas.
+h: Linguagem de alto nível. Linguagem mais fácil de compreensão do ser humano, mais amigável aos programadores.
+i: Linguagem de máquina. Unica linguagem entendida pelos computadores, onde cada computador/arquitetura possui a sua.
+j: Unidade central de processamento. Unidade que coordena as outras unidades do computador.
+
+1.5 ->
+a: Java. Linguagem amplamente usada para vários propositos.
+b: C. Ficou muito conhecido por ser a linguagem utilizada para desenvolver o sistema UNIX.
+c: TCP. Protocolo que envia e garante que todas os pacotes de uma mensagem foram enviadas corretamente.
+d: C++. Linguagem de programação criada por Bjarne Stroustrup em 1980 na Bell Labotaries.
+
+1.6 ->
+a: Criação do programa (Desenvolvimento do código fonte), Compilação (Conversão do código fonte em bytecode), Carregando um programa na mémoria (Carrega todo o bytecode na mémoria), Verificação do bytecode (Valida o bytecode se não está violando nenhuma regra do java) e Execução (Executa os bytecodes do programa). Cinco fases que os programas Java passam.
+b: IDE. Ambiente de desenvolvimento integrado, que fornece inumeras ferramentas para facilitar e acelerar o desenvolvimento de programas.
+c: JVM. Comando java invoca a JVM para executar os programas em java.
+d: Máquina virtual. Simula um computador ocultando o sistema operacional e o hardware dos software que interegame com ele.
+e: Carregamento. Fase em que o bytecode é carregado na mémoria principal.
+f: Verificação de bytecode. Fase em que o bytecode é examinado a procura de quebra de regra no java.
+
+1.7 ->
+Na primeira fase de compilação, é convertido o código fonte em bytecodes, linguagem que é compreendida pela JVM, que na segunda fase, converte os bytecodes em linguagem de máquina.
+
+1.8 ->
+Objeto - O próprio relógio.
+Atributos - Posição ponteiro marcador de horas, posição do ponteiro marcador de minutos e posição do ponteiro marcador de segundos.
+Comportamentos - Alteração da posição dos ponteiros.
+Classe - Relógio que contem os atributos, marcador hora, minuto e segundos, e os metódos de manipulação desses marcadores.
+Herança - Relógio esportivo que herda todos os atributos do relógio, porém adiciona o atributo alarme e o metódo de verificação e ativação do alarme.
+Modelagem - Representação do relógio e do relógio esportivo, especificando visualmente aos atributos e metódos que eles possuem.
+Mensagem - Quando os ponteiros do relógio esportivo apontar para o tempo definido nos atributos alarme, chama o metódo responsavél por acionar o alarme.
+Encapsulamento - Botões para ajustar as horas e alarme, que acionam engrenagens que não temos acesso.
+Interface - Possui botões e display que mostram as horas.
+Ocultamento de informações - Possui engrenagens que acionam os ponteiros e não temos acesso.
