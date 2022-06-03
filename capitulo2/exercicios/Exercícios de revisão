@@ -1,0 +1,76 @@
+2.1 ->
+a: {}. Um método sempre se inicia e finaliza com chaves.
+b: if. Declaração usada para tomar decisões.
+c: //. Começa um comentario de fim de linha.
+d: Linha em branco, tabulação (recuo) e caractere de espaço em branco. São chamados de espaço em branco.
+e: palavras chave. São reservadas para uso do Java.
+f: main. Método que é executado primeiro em qualquer aplicativo Java.
+g: System.out.print, System.out.println e System.out.printf. Métodos que exibem mensagem na janela de comando.
+
+2.2 ->
+a: Falso. Comentarios são ignorados pelo compilador e não executam tarefa nenhuma.
+b: Verdade. Todas as variaveis devem ser atribuidas a um tipo.
+c: Falso. Java é case sensitive, isto é, diferencia letras maiusculas de minusculas.
+d: Falso. O operador % (resto) pode ser usado tanto com inteiro quanto com real, porem mais comumente usado com inteiro.
+e: Falso. Os operadores *, / e %  possuem a precedencia mais alta, seguido por + e -, sendo executado da esquerda para direita.
+
+2.3 ->
+a: 
+    int c;
+    int thisIsAVariable;
+    int q76354;
+    int number;
+b:
+    Scanner scan = new Scanner(System.in);
+    int inteiro;
+    System.out.print("Insira um numero inteiro");
+    inteiro = scan.nextInt();
+c: 
+    Scanner input = new Scanner(System.in);
+    int value;
+    value = input.nextInt();
+d: 
+    System.out.println("This is a Java program");
+e:
+    System.out.printf("%s%n%s","This is a Java", " program");
+f:
+    if (number != 7)
+        System.out.print("The variable number is not equal to 7");
+
+2.4 ->
+a: 
+    if (c < 7) //; retira ponto e virgula
+        System.out.println("c is less than 7");
+b:
+    if (c >= 7) // inverte declaração =>
+        System.out.println("c is igual to or greater than 7");
+
+2.5 ->
+a: 
+    //Programa irá calcular o produto de três inteiros
+b:
+    Scanner input = new Scanner(System.in);
+c: 
+    int x;
+    int y;
+    int z;
+    int result;
+d:
+    System.out.print("Insira o primeiro numero: ");
+e:    
+    x = input.nextInt();
+f:
+    System.out.print("Insira o segundo numero: ");
+g:    
+    y = input.nextInt();
+h:
+    System.out.print("Insira o terceiro numero: ");
+i:    
+    z = input.nextInt();
+j:
+    result = x * y * z;
+k:
+    System.out.printf("Product is %d", result);
+
+2.6 ->
+Resolvido com codigo

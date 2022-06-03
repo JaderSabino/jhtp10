@@ -1,0 +1,60 @@
+2.7 ->
+a: Comentarios. Usados para documentar programas e melhorar sua legibilidade.
+b: if. Comando utilizaod para se tomar um decisão.
+c: Instruções aritmeticas. Realizam cálculos.
+d: / (divisão) e % (resto). Operadores com a mesma precedencia da multiplicação (*).
+f: Variavel. Posição na memoria que pode contem varios valores ao decorrer do processamento do programa.
+
+2.8 ->
+a: System.out.print("Enter an integer");
+b: a = b * c;
+c: // Programa executa o calculo de exemplo de folha de pagamento.
+
+2.9 ->
+a: Falso. Por mais que a maioria dos operadores são avaliados da esquerda para direita, existem alguns operadores que são avaliados da direita para esquerda.
+b: Verdadeiro. Nenhuma variavel começa com numero ou espaço.
+c: Verdadeiro. Expressão aritimetica sem parenteses, é avaliada da esquerda para direita.
+d: Falso. A variavel de nome h22 é valida.
+
+2.10 ->
+a: x = 2. Irá pular a linha no final devido o %n.
+b: Value of 2 + 2 is 4. Irá pular linha no final devido o %n.
+c: x =.
+d: 5 = 5. Irá pular linha no final devido o %n.
+
+2.11 -> Letra a. A instrução da letra a possui variaveis cujo valores serão modificados. p = i + j + k + 7;
+
+2.12 -> Letra a, d e e.
+
+2.13 ->
+a: 1º 3 * 6 = 18, 2º 18 / 2 = 9, 3º 7 + 9 = 16, 4º 16 - 1 = 15. Resultado será 15.
+b: 1º 2 % 2 = 0, 2º 2 * 2 = 4, 3º 2 / 2 = 1, 4º 0 + 4 = 4, 5º 4 - 1 = 3. Resultado será 3.
+c: 1º 9 * 3 = 27, 2º 27 - 3 = 24, 3º 3 + 24 = 27, 4º 3 * 9 = 27, 5º 27 + 27 = 54. Resultado será 54.
+
+2.19 ->
+*
+**
+***
+****
+*****
+
+
+2.20 -> 
+*
+***
+*****
+****
+**
+
+
+2.21 ->
+****
+*****
+******
+
+
+2.23 ->
+*
+***
+*****
+
