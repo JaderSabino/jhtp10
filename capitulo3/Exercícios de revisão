@@ -1,0 +1,35 @@
+3.1 ->
+a: public. Toda classe public, tem que ser armazenada em um arquivo de mesmo nome .java.
+b: class. Palavra chave que é seguida pelo nome da classe.
+c: new. Palavra chave que solicita memoria do sistema para armazenar um objeto e chama o construtor da classe.
+d: tipo e nome. Todo parametro deve especificar.
+e: pacote padrão. Classes no mesmo diretorio são consideradas com do mesmo pacote.
+f: float e double. Tipos primitivos fornecidos pelo java para armazenar numeros de ponto flutuante.
+g: dupla precisão. O tipo double representa.
+h: .nextDouble(). Retorna um numero do tipo double.
+i: modificador de acesso. A palavra reservada public é.
+j: void. Indica que o metodo não contem retorno.
+k: .nextLine(). Le os caracteres até encontrar o caracter de nova linha e retorna uma string.
+l: java.lang. Pacote onde se encontra a classe String.
+m: import. Não é necessario se a classe for declarado com seu nome qualificado.
+n: ponto flutuante. Numero que possui um ponto de fração decimal.
+o: simples. Variaveis do tipo float representam numeros de ponto flutuante de precisão simples.
+p: %f. Especificador de formato usado para representar variaveis do tipo float e double.
+q: tipo primitivo e tipo por referencia. Divisoes de tipo no Java.
+
+3.2 ->
+a: Falso. Por convensão, metodos, variaveis e classes, são nomeadas no padrão camelo (CamelCase), somente o nome de classe sendo iniciado com a primeira letra maiuscula.
+b: Verdade. Import é só usado quando a classe é de outro pacote.
+c: Verdade. Parenteses vazio apos a declaração de um metodo, representa que o metodo não necessita de nenhum parametro para ser executado.
+d: Falso. Somente variaveis do tipo por referencia pode chamar metodos.
+e: Falso. Variaveis declaradas no corpo de um metodo, é chamada de variavel local, e só pode ser usada dentro do proprio metodo.
+f: Verdade. Os metodos são limitados por chaves.
+g: Falso. Somente as variaveis de instancia são inicializadas com valores padrão.
+h: Verdade. Variaveis de instancia do tipo por referencia são inicializadas por padrão com  null.
+i: Verdade. As classes que contem o metodo public static void main, é inicializada por padrão pelo java ao executar um aplicativo.
+j: Verdade. Quantidade e tipo de argumentos deve respeitar o quantidade e tipo dos parametros definidos ao criar o metodo.
+k: Falso. Valores literais  (hardcode) numerico de ponto flutuante declarados no codigo fonte, são double por padrão.
+
+3.3 -> Variavel local só existe enquanto o metodo é executado, enquanto as variaveis de instancia, existe durante toda a existencia do objeto.
+
+3.4 -> Um parametro de um metodo, é usado para definir um certo comportamento ou definir um valor para variaveis local ou de instancia. Parametro é uma variavel definida pelo metodo para ser usada em seu escopo, enquanto argumento, é o valor passado para o metodo atributir em seu parametro.

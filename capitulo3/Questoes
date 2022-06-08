@@ -1,0 +1,11 @@
+3.5 -> O objetivo da palavra new é criar (instanciar) um objeto a partir de uma classe. Implicitamente chama o construtor da classe, sendo padrão ou definida e inicializa das variaveis de instancia.
+
+3.6 -> Construtor padrão é gerado pelo compilador para toda classe que não possuir um construtor definido. As variaveis de instancia são inicializadas com os valores padrões para cada tipo.
+
+3.7 -> Armazenar atributos do objeto. Exemplo classe Conta, possui o atributo saldo.
+
+3.8 -> As Classes String e System são do pacote java.lang, que é importada implicitamente em todos os programas Java.
+
+3.9 -> A Classe Scanner pode ser usada sem ser importada, quando é declarada na forma qualificada, como java.util.Scanner.
+
+3.10 -> Para encapsular/esconder a variavel de instancia, e criar validações para não permitir que seja inserido qualquer valor.
