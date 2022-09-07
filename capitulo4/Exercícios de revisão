@@ -1,0 +1,66 @@
+4.1 ->
+a: sequencial, decisão e repetição.
+b: if else.
+c: controlada por contador.
+d: sentinela.
+e: controle. Errei, é sequencia.
+f: 0 e 0.0.
+g: fortemente tipada.
+h: depois, vaiavel++. Errei, é prefixado.
+
+4.2 ->
+a: verdadeiro.
+b: falso.
+c: falso.
+d: verdadeiro.
+e: verdadeiro.
+f: falso.
+g: verdadeiro.
+h: verdadeiro. Errei, é falso.
+i: falso.
+j: verdadeiro.
+
+4.3 ->
+x = x + 1;
+x += 1;
+x++;
+++x;
+
+4.4 ->
+a: 
+    z = x + y;
+    x++;
+    obs: acertei, porem também pode ser escrita da seguinte forma: z = x++ + y;
+b:
+    if (contador > 10) {
+        System.out.print("Contador é maior que 10");
+    }
+c:
+    total -= --x; 
+d:
+    q = q % divisor;
+    q %= divisor;
+
+4.5 ->
+a:
+    int sum = 0;
+b:
+    int x = 0;
+c:
+    sum += x;
+d:
+    System.out.printf("A soma é %s", sum);
+
+4.6 ->
+resolvido em código.
+
+4.7 ->
+product = 25;
+x = 6;
+
+4.8 ->
+a: fechamento das chaves do bloco while.
+b: ponto e virgula no else.
+
+4.9 ->
+não altera o valor de z, somente sum.

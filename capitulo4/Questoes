@@ -1,0 +1,177 @@
+4.10 ->
+    A semelhança é que as duas instruções utilizam expressões condicionais para fazerem suas validações, porém a instrução if executa ou não um bloco de codigo, e a while executa uma instrução 0 a n vezes.
+
+4.11 ->
+    Quando o Java realiza uma operação entre numeros inteiros, ela produz outro inteiro e a parte fracionaria é truncada (perdida).
+
+4.12 ->
+    Empilhadas e aninhadas, ou seja, uma depois da outra ou uma dentro da outra.
+
+4.13 ->
+    Repetição controlada por contador, pois conhecemos a quantidade de execução anteriormente. Repetição controlada por sentinela, pois não conhecemos a quantidade de numeros existem.
+
+4.14 ->
+    Pre-incrementar realiza a adição de 1 a variavel primeiro antes de executar o restante da instrução em que ela está. O pós-incremente, ocorre a execução da instrução com o valor atual da variavel, e depois realiza a adição de 1 a ela.
+
+4.15 ->
+a: ponto e virgula no comando if.
+b: variavel total não foi inicializada.
+c: falta de abertura e fechamento de chaves gera um loop infinito.
+d: falta de fechamento da chave.
+
+4.16 ->
+    imprime x * x onde x percorre de 1 a 10, no final imprime a soma de todos os resultados imprimidos anteriormente.
+
+4.17 ->
+    codificado
+
+4.18 ->
+    codificado
+
+4.19 ->
+    codificado
+
+4.20 ->
+    codificado
+
+4.21 ->
+    codificado
+
+4.22 ->
+    codificado
+
+4.23 ->
+    codificado
+
+4.24 ->
+    codificado
+
+4.25 ->
+    ****
+    ++++++++
+    ****
+    ++++++++
+    ****
+    ++++++++
+    ****
+    ++++++++
+    ****
+    ++++++++
+
+4.26 ->
+    >>>>>>>>>>
+    <<<<<<<<<<
+    >>>>>>>>>>
+    <<<<<<<<<<
+    >>>>>>>>>>
+    <<<<<<<<<<
+    >>>>>>>>>>
+    <<<<<<<<<<
+    >>>>>>>>>>
+    <<<<<<<<<<
+
+4.27 ->
+    a) 
+        x = 9 | y = 11
+
+        *****
+        $$$$$
+
+        x = 11 | y = 9
+
+        $$$$$
+
+    b)
+
+        x = 9 | y = 11
+
+        *****
+
+        x = 11 | y = 9
+
+        #####
+        $$$$$
+
+4.28 ->
+    a) 
+
+    if (y == 8) {
+        if (x == 5) {
+            System.out.println("@@@@@");
+        } else {
+            System.out.println("#####");
+        }
+    }
+    System.out.println("$$$$$");
+    System.out.println("&&&&&");
+
+    b)
+
+    if (y == 8) {
+        if (x == 5) {
+            System.out.println("@@@@@");
+        }
+    } else {
+        System.out.println("#####");
+        System.out.println("$$$$$");
+        System.out.println("&&&&&");
+    }
+    
+    c)
+
+    if (y == 8) {
+        if (x == 5) {
+            System.out.println("@@@@@");
+        }
+    } else {
+        System.out.println("#####");
+        System.out.println("$$$$$");
+        System.out.println("&&&&&");
+    }
+
+    d)
+
+    if (y == 8) {
+        if (x == 5) {
+            System.out.println("@@@@@");
+        }
+    } else {
+        System.out.println("#####");
+        System.out.println("$$$$$");
+        System.out.println("&&&&&");
+    }
+
+4.29 ->
+    codificado
+
+4.30 ->
+    codificado
+
+4.31 ->
+    codificado
+
+4.32 ->
+    codificado
+
+4.33 ->
+    codificado
+    Gera numeros infinitos até estourar os recursos computacionais.
+
+4.34 ->
+    O operador de incremento só pode ser prefixado ou pós fixado a uma variavel. O correto seria armazenar o resultado da suma das variaveis a uma outra variavel, ou alterar o operador de incremento para um operador de soma mais 1 (de ++ para 1 +).
+
+    z = x+y;
+    System.out.println(++z);
+
+    ou
+
+    System.out.println(1 + (x+y));
+
+4.35 ->
+    codificado
+
+4.36 ->
+    codificado
+
+4.37 ->
+    codificado
