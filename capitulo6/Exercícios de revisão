@@ -1,0 +1,38 @@
+5.1 ->
+    a) chamada;
+    b) variável local;
+    c) return;
+    d) void;
+    e) topo;
+    f) LIFO - Last In First Out - Ultimo a entrar, primeiro a sair;
+    g) fim do metodo, intrução return ou lançamento de exceção; (ao invés da exceção, seria return + expressão).
+    h) SecureRandom;
+    i) escopo ou ... essa não lembro; (registro de ativação, quadro de pilha).
+    j) estouro de pilha;
+    k) (escopo).
+    l) sobrecarga de metodo;
+
+6.2 ->
+    a) toda a classe;
+    b) dentro do metodo rollDice;
+    c) todas as classes;
+    d) todas as classes;
+    e) dentro do metodo main;
+
+6.3 -> 
+    codificado;
+
+6.4 ->
+    a) public double hupotenuse(double side1, double side2);    
+    b) public int smallest(int x, int y, int z);    
+    c) public void instructions();    
+    d) public float intToFloat(int number);
+
+6.5 ->
+    a) metodo declarado dentro de metodo. Deve se declarar um fora do outro;
+    b) falta a instrução return, devido a assinatura do metodo declarar que espera o retorno de um numero inteiro. Deve se declarar a instrução return juntamento com um numero inteiro;
+    c) não inicializou a variável local antes de se utilizar ela. Deve se inicializar qualquer variável local antes de utilizar ela em alguma expressão; (ponto e virgula ao fim da declaração do cabeçalho do metodo e redeclaração da variavel float a, onde a mesma já havia sido declarada como parametro do metodo).
+    d) o metodo foi declarado para não retornar nenhum valor, e possui uma instrução return. Deve se retirar a instrução return;
+
+6.6 ->
+    codificado;

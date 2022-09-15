@@ -1,0 +1,47 @@
+5.1 ->
+    a) intruções for | intruções while/do while;
+
+    b) depois/após;
+
+    c) switch case;
+
+    d) continue;
+
+    e) && e &;
+
+    f) false;
+
+    g) estaticos;
+
+5.2 ->
+    a) falso. O caso default é opcional;
+
+    b) falso. A instrução break, não é obrigatório nos casos da instrução de seleção switch, porém é indicado para não executar os próximos casos após o primeiro verdadeiro. A instrução break retorna o controle para o fim da instrução de seleção switch;
+
+    c) falso. É verdadeiro se x > y E a < b;
+
+    d) verdadeiro. Operador || represente um ou outro ou ambos;
+
+    e) verdadeiro. A flag (,) no especificador de formato "%,20.2f" indica que o numero na saida será formatado com separador de milhar;
+
+    f) false.
+
+    g) verdadeiro.
+
+5.3 ->
+    a) feito em codigo;
+    
+    b) feito em codigo;
+    
+    c) feito em codigo;
+    
+    d) feito em codigo;
+
+5.4 ->
+    a) ponto e virgula após o fechamento dos parenteses, ocorrerá um erro de compilação. Para corrigi-lo, deve se trocar o ponto e virgula, pela chave de abertura;
+
+    b) Utilizar numero de ponto flutuante como variavel de controle de instrução de repetição é imprecisa, devido aos numeros de ponto flutuante serem representados com seu valor aproximadamente e não exato;
+
+    c) Falta da instrução break ao fim do primeiro caso, ocasionará a execução do caso seguinte, além do primeiro, caso o primeiro sejá verdadeiro;
+
+    d) A instrução relacional que é usada para testar a intrução while, está declarada com o sinal de menor que 10, isso fará com que o codigo repita até que o i sejá 9;

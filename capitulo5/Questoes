@@ -1,0 +1,87 @@
+5.5 ->
+    Variável de controle, condição de parada, incremendo da variavel de controle e corpo da instrução que será executado n vezes;
+
+5.6 ->
+    while necessita da incrementação da variável de controle ser feita no corpo da instrução, e for esse incremento faz parte do cabeçalho de declaração da intrução;
+
+5.7 ->
+    A intrução do...while é indicada quando, é necessário que o bloco de intruções, seja executado pelo menos uma vez, independente da condição de parada. A instrução while é usado quando, antes de executar o bloco de instruções, é necessário ser feito a verificação da variavél de controle;
+
+5.8 ->
+    A instrução break é utilizada, para sair da instrução de repetição ou seleção, para a instrução imediatamente após o fim da instrução atual. A instrução continue, é utilizada com instruções de repetição, para pular, imediatamente, para a iteração posterior;
+
+5.9 ->
+    a) Ocorrerá um loop infinito devido a variável de controle, está sendo incrementada, ao invés de ser decrementada;
+
+    b) Devido os cases não conter a instrução break, caso sejá par, ele imprimirá as duas mensagens;
+
+    c) Ocorrerá um loop infinito, devido a variável de controle, sempre ser maior que 1, por conta dela ser incrementada, e não decrementada;
+
+    d) Será verificado somente até o numero 98, devido a condição de parada, ser enquanto o contador sem menor que 100, e deveria ser enquanto seja menor igual a 100;
+
+5.10 ->
+    Imprimirá 10 linhas com 5 colunas contendo o caractere @;
+
+5.11 ->
+    codificado;
+
+5.12 ->
+    codificado;
+
+5.13 ->
+    codificado. A dificuldade de calcular o fatorial do numero 100 é devido o tipo primitivo long, não suportar o resultado do produto dos numeros de 1 a 100;
+
+5.14 ->
+    codificado;
+
+5.15 ->
+    codificado;
+
+5.16 ->
+    codificado;
+
+5.17 ->
+    codificado;
+
+5.18 ->
+    codificado;
+
+5.19 ->
+    a) true;
+
+    b) false;
+
+    c) true;
+
+    d) false;
+
+    e) true;
+
+    f) false;
+
+    g) false;
+
+5.20 ->
+    codificado;
+
+5.21 ->
+    codificado;
+
+5.22 ->
+    codificado;
+
+5.23 ->
+    codificado;
+
+5.24 ->
+    codificado;
+
+5.25 ->
+    codificado;
+
+5.26 ->
+    codificado. Uma maneira de se substituir o break, é manipulanto a variavel contadora ou sentinela, pra que de modo o teste seja negativo e saia do loop;
+
+5.27 ->
+    Irá imprimir 5 blocos de 3 linhas com 4 asteriscos por linha;
+
